@@ -1,5 +1,4 @@
 import SpainFlag from '@/components/flags/Spain.astro';
-import AndorraFlag from '@/components/flags/Andorra.astro';
 import UnitedStatesFlag from '@/components/flags/UnitedStates.astro';
 
 // Add missing imports
