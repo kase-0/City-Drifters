@@ -71,7 +71,7 @@
 	"FOOTER": {
 		"DISCLAIMER": "All rights reserved. - This is not the official website, developed by @midudev for educational purposes.",
 		"LEGAL": {
-			"TITLE": "Legal",
+			"TITLE": "Quick Links",
 			"NOTICE": "Legal Notice",
 			"PRIVACY": "Privacy Policy",
 			"COOKIES": "Cookie Policy",
@@ -217,7 +217,7 @@
 	"PRIVACY": {
 		"POLICY": {
 			"TITLE": "Privacy Policy",
-			"DESCRIPTION_1": "We are delighted that you are visiting the official ESLAND Awards website at www.premiosesland.com (hereinafter, 'the Website'), and we value your interest.",
+			"DESCRIPTION_1": "acknowledgments",
 			"DESCRIPTION_2": "UBIQ S.L.U. (hereinafter, 'UBIQ') is firmly committed to complying with current personal data protection legislation to ensure the privacy, confidentiality, and security of user personal data by implementing appropriate technical and organizational measures.",
 			"DESCRIPTION_3": "This Privacy Policy aims to inform users about how UBIQ processes personal data collected when accessing, browsing, and using the services offered on the Website. It also outlines the security measures in place, how users can exercise their rights, and contact information.",
 			"DESCRIPTION_4": "Personal data will only be collected by UBIQ for processing when it is adequate, relevant, and not excessive in relation to the explicit, specified, and legitimate scope and purposes for which it was obtained.",
@@ -307,19 +307,19 @@
 		"LOAD_MORE": "Discover them all"
 	},
 	"LEGAL_NOTICE": {
-		"TITLE": "Legal Notice",
+		"TITLE": "Special Thanks to:",
 		"ACCESS_AND_USE": {
-			"TITLE": "Conditions of Access and Use",
-			"DESCRIPTION_1": "Accessing, browsing, and using the website www.premiosesland.com implies express and unreserved acceptance of all the terms of these conditions of use. Compliance with these terms is mandatory for anyone who accesses, browses, or uses the website. If you do not agree with all or any part of these conditions, you should refrain from accessing, browsing, and using the website."
+			"TITLE": "Manuel Portillo!",
+			"DESCRIPTION_1": "シティDrifters would like to express our sincerest gratitude to Manuel Portillo for his invaluable support in the development of this project. His generosity in providing the structure and controls of the game has been essential in bringing this idea to life. Thank you for being part of this journey and for contributing so significantly to the success of our game."
 		},
 		"OWNERSHIP_AND_CONTACT_DATA": {
-			"TITLE": "Ownership and Contact Information",
-			"DESCRIPTION_1": "UBIQ S.L.U. (hereinafter, 'UBIQ'), an Andorran company with NRT L-718097-X, is located at Calle Josep Viladomat, 4, Ed Sogas, 1-1 AD700 Escaldes Engordany (Andorra) and is registered in the Company Registry of the Government of Andorra under number 23023. The email address is [info@ubiq.ad]. UBIQ is the owner of the website www.premiosesland.com (hereinafter, 'the Website'). You can contact UBIQ by sending an email to: info@ubiq.ad."
+			"TITLE": "Renato Garcia!",
+			"DESCRIPTION_1": "シティDrifters would like to extend our deepest thanks to Renato Garcia for his incredible work in welding and modifying the game's structure. His skill and dedication have been crucial in improving and adapting our project, allowing this game to become what it is today. Thank you for your effort and for being an essential part of our team."
 		},
 		"PURPOSE_AND_CONTENT_WEBSITE": {
-			"TITLE": "Purpose and Content of the Website",
-			"DESCRIPTION_1": "The purpose of this website is to inform users about UBIQ's events related to streamer activities and to offer the opportunity to participate in these events as part of the jury for the ESLAND Awards, as well as to select and cast votes for their favorite streamers and content. Access to information on the website does not establish any contractual relationship between the user and UBIQ.",
-			"DESCRIPTION_2": "UBIQ makes every effort to ensure that the information on the website is complete and up-to-date, periodically reviewing the content. However, users acknowledge that the information provided is for informational purposes only and UBIQ does not guarantee its accuracy, suitability, or completeness. Users are solely responsible for their use of the information on the website."
+			"TITLE": "A thousand thanks!",
+			"DESCRIPTION_1": "Leaderboard",
+			"DESCRIPTION_2": "Acknowledgments"
 		},
 		"TERMS_OF_USE": {
 			"TITLE": "Terms of Use",

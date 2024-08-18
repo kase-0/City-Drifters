@@ -33,18 +33,18 @@ const translatePath = useTranslatedPath(lang);
           <ul class="flex flex-col gap-2 font-medium text-gray-400">
             <li>
               <Link
-                href={translatePath("/aviso-legal/")}
+                href={i18n.PRIVACY.POLICY.DESCRIPTION_1}
                 class="hover:underline hover:text-primary duration-300"
               >
-                {t("nav.legal")}
+                {i18n.LEGAL_NOTICE.PURPOSE_AND_CONTENT_WEBSITE.DESCRIPTION_2}
               </Link>
             </li>
             <li>
               <Link
-                href={translatePath("/privacidad/")}
+                href="https://ultimate-optimal-gazelle.ngrok-free.app/citydrifters/"
                 class="hover:underline hover:text-primary duration-300"
               >
-                {t("nav.privacidad")}
+                {i18n.LEGAL_NOTICE.PURPOSE_AND_CONTENT_WEBSITE.DESCRIPTION_1}
               </Link>
             </li>
           </ul>

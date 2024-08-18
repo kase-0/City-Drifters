@@ -71,7 +71,7 @@
 	"FOOTER": {
 		"DISCLAIMER": "Todos los derechos reservados. - Esta no es la web oficial, desarrollada por @midudev para fines educativos",
 		"LEGAL": {
-			"TITLE": "Legal",
+			"TITLE": "Enlaces directos",
 			"NOTICE": "Aviso Legal",
 			"PRIVACY": "Privacidad",
 			"COOKIES": "Cookies",
@@ -169,8 +169,7 @@
 	"PRIVACY": {
 		"POLICY": {
 			"TITLE": "Política de privacidad",
-			"DESCRIPTION_1": "Nos complace que visite la web oficial de PREMIOS ESLAND www.premiosesland.com (en adelante, Sitio Web) y agradecemos su interés.",
-			"DESCRIPTION_2": "UBIQ S.L.U (en adelante, UBIQ) tiene el firme compromiso de cumplir con la legislación vigente en materia de protección de datos personales para garantizar la privacidad, el secreto y la seguridad de los datos personales de los Usuarios aplicando medidas técnicas y organizativas apropiadas al efecto.",
+			"DESCRIPTION_1": "agradecimientos",
 			"DESCRIPTION_3": "La presente Política de Privacidad tiene por objeto informar a los Usuarios sobre el tratamiento que UBIQ hace de los datos personales que el Usuario facilite al acceder, navegar y utilizar los servicios que se ofrecen en el Sitio Web, así como de las medidas de seguridad adoptadas, del ejercicio de los derechos de los Usuarios y de la forma de contacto.",
 			"DESCRIPTION_4": "Los datos personales sólo serán obtenidos por UBIQ para su tratamiento, cuando sean adecuados, pertinentes y no excesivos en relación con el ámbito y las finalidades determinadas, explícitas y legítimas para las que se hayan obtenido.",
 			"DESCRIPTION_5": "A continuación, cumplimiento con la normativa vigente en materia de protección de datos personales proporcionamos a los Usuarios la siguiente información:"
@@ -259,19 +258,19 @@
 		"LOAD_MORE": "Descúbrelas todas"
 	},
 	"LEGAL_NOTICE": {
-		"TITLE": "Aviso legal",
+		"TITLE": "Agradecimientos especiales a:",
 		"ACCESS_AND_USE": {
-			"TITLE": "Condiciones de acceso y uso",
-			"DESCRIPTION_1": "El acceso, navegación y utilización del Sitio web www.premiosesland.com implica la aceptación expresa y sin reservas de todos los términos de las condiciones de uso incluidas en el presente Aviso Legal. Su Cumplimiento es exigible respecto de cualquier persona que acceda, navegue o utilice el Sitio web. Si el Usuario no está de acuerdo con la totalidad o parte de las condiciones de uso en los términos expuestos, deberá abstenerse de acceder, navegar o utilizar el Sitio Web."
+			"TITLE": "Manuel Portillo!",
+			"DESCRIPTION_1": "シティDrifters queremos expresar nuestro más sincero agradecimiento a Manuel Portillo por su inestimable apoyo en el desarrollo de este proyecto. Su generosidad al cedernos la estructura y controles del juego ha sido fundamental para llevar esta idea a la realidad. Gracias por formar parte de esta aventura y por contribuir tan significativamente al éxito de nuestro juego."
 		},
 		"OWNERSHIP_AND_CONTACT_DATA": {
-			"TITLE": "Titularidad  y datos de contacto",
-			"DESCRIPTION_1": "UBIQ S.L.U (en adelante, UBIQ) sociedad andorrana con NRT L-718097-X, con domicilio social en la calle Josep Viladomat, 4, Ed Sogas, 1-1 AD700 Escaldes Engordany (Andorra), inscrita en el Registro de Sociedades del Gobierno de Andorra con nº 23023, con correo electrónico [info@ubiq.ad], es la titular de la página Web www.premiosesland.com (en adelante, Sitio Web). Los Usuarios del Sitio Web podrán contactar con UBIQ mediante el envío de un correo electrónico a: info@ubiq.ad"
+			"TITLE": "Renato Garcia!",
+			"DESCRIPTION_1": "シティDrifters quiere extender nuestro más sincero agradecimiento a Renato García por su increíble trabajo soldando y modificando la estructura del juego. Su habilidad y dedicación han sido esenciales para mejorar y adaptar nuestro proyecto, permitiendo que este juego se convierta en lo que es hoy. Gracias por tu esfuerzo y por ser una parte fundamental de nuestro equipo."
 		},
 		"PURPOSE_AND_CONTENT_WEBSITE": {
-			"TITLE": "Objeto y contenido del sitio web",
-			"DESCRIPTION_1": "Este Sitio Web tiene por objeto informar a los Usuarios de los eventos que organice UBIQ en relación con las actividades de Streamers y ofrecer la posibilidad de participar en dichos eventos como jurado de los Premios Esland y seleccionar y emitir su voto a favor de sus Streamers y contenidos favoritos. El acceso a la información del Sitio Web no implica ni constituye relación contractual alguna entre el Usuario y UBIQ.",
-			"DESCRIPTION_2": "UBIQ emplea todos los esfuerzos para asegurar que toda la información disponible en el Sitio Web sea completa y esté actualizada, revisando periódicamente el contenido del Sitio Web. No obstante, el Usuario reconoce y acepta que toda la información disponible en el Sitio Web se ofrece únicamente a efectos meramente informativos y que UBIQ no garantiza la precisión, idoneidad e integridad de la información contenida en el Sitio Web. Es responsabilidad exclusiva del Usuario el uso que haga de la información contenida en el Sitio Web."
+			"TITLE": "¡Miles de gracias!",
+			"DESCRIPTION_1": "Marcador",
+			"DESCRIPTION_2": "Agradecimientos"
 		},
 		"TERMS_OF_USE": {
 			"TITLE": "Condiciones de uso",
